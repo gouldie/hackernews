@@ -3,8 +3,6 @@
 </template>
 
 <script>
-import data from '../data'
-import { jobStats } from '../utils'
 import { Line } from 'vue-chartjs'
 import randomcolor from 'randomcolor'
 import {
@@ -34,6 +32,7 @@ import {
   Tooltip,
   SubTitle
 } from 'chart.js'
+import generated from '../data/generated'
 
 ChartJS.register(
   ArcElement,
@@ -71,45 +70,27 @@ export default {
   },
   watch: {
     techs: function () {
-      this.chartData = this.formatData(data)
+      this.chartData = this.formatData()
     }
   },
   data: function () {
     return {
-      chartData: this.formatData(data),
+      chartData: this.formatData(),
       chartOptions: {
         tension: 0.4,
         maintainAspectRatio: false,
         scales: {
-          yAxes: [
-            {
-              ticks: {
-                beginAtZero: true
-              },
-              gridLines: {
-                display: false
-              }
+          yAxes: {
+            ticks: {
+              beginAtZero: true
             }
-          ],
-          xAxes: [
-            {
-              gridLines: {
-                display: true
-              }
-            }
-          ]
+          }
         }
       }
     }
   },
   methods: {
-    formatData(data) {
-      const formattedData = {}
-
-      Object.keys(data).forEach(key => {
-        formattedData[key] = jobStats(data[key])
-      })
-
+    formatData() {
       const datasets = this.techs.map(e => {
         const color = randomcolor()
 
@@ -122,10 +103,10 @@ export default {
         }
       })
 
-      Object.keys(formattedData).forEach(m => {
+      Object.keys(generated).forEach(m => {
         this.techs.forEach(t => {
-          const count = formattedData[m][t].count
-          const label = formattedData[m][t].label
+          const count = generated[m][t].count
+          const label = generated[m][t].label
 
           const index = datasets.indexOf(datasets.find(e => e.id === t))
 
@@ -135,7 +116,7 @@ export default {
       })
 
       return {
-        labels: Object.keys(formattedData),
+        labels: Object.keys(generated),
         datasets
       }
     }

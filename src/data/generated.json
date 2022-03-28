@@ -1,0 +1,1634 @@
+{
+  "Jan 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 3
+    },
+    "react": {
+      "label": "React",
+      "count": 19
+    },
+    "java": {
+      "label": "Java",
+      "count": 3
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 0
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 2
+    },
+    "python": {
+      "label": "Python",
+      "count": 20
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 23
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 13
+    }
+  },
+  "Feb 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 3
+    },
+    "react": {
+      "label": "React",
+      "count": 46
+    },
+    "java": {
+      "label": "Java",
+      "count": 16
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 0
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 16
+    },
+    "python": {
+      "label": "Python",
+      "count": 44
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 39
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 27
+    }
+  },
+  "Mar 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 3
+    },
+    "react": {
+      "label": "React",
+      "count": 26
+    },
+    "java": {
+      "label": "Java",
+      "count": 13
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 0
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 7
+    },
+    "python": {
+      "label": "Python",
+      "count": 36
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 35
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 16
+    }
+  },
+  "Apr 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 3
+    },
+    "react": {
+      "label": "React",
+      "count": 26
+    },
+    "java": {
+      "label": "Java",
+      "count": 9
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 0
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 13
+    },
+    "python": {
+      "label": "Python",
+      "count": 36
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 20
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 13
+    }
+  },
+  "May 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 1
+    },
+    "react": {
+      "label": "React",
+      "count": 47
+    },
+    "java": {
+      "label": "Java",
+      "count": 14
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 2
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 11
+    },
+    "python": {
+      "label": "Python",
+      "count": 29
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 47
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 20
+    }
+  },
+  "Jun 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 3
+    },
+    "react": {
+      "label": "React",
+      "count": 28
+    },
+    "java": {
+      "label": "Java",
+      "count": 15
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 4
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 9
+    },
+    "python": {
+      "label": "Python",
+      "count": 31
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 31
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 16
+    }
+  },
+  "Jul 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 6
+    },
+    "react": {
+      "label": "React",
+      "count": 40
+    },
+    "java": {
+      "label": "Java",
+      "count": 12
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 1
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 11
+    },
+    "python": {
+      "label": "Python",
+      "count": 35
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 31
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 19
+    }
+  },
+  "Aug 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 1
+    },
+    "react": {
+      "label": "React",
+      "count": 35
+    },
+    "java": {
+      "label": "Java",
+      "count": 7
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 2
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 6
+    },
+    "python": {
+      "label": "Python",
+      "count": 30
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 36
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 22
+    }
+  },
+  "Sep 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 5
+    },
+    "react": {
+      "label": "React",
+      "count": 39
+    },
+    "java": {
+      "label": "Java",
+      "count": 11
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 3
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 12
+    },
+    "python": {
+      "label": "Python",
+      "count": 36
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 40
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 26
+    }
+  },
+  "Oct 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 4
+    },
+    "react": {
+      "label": "React",
+      "count": 45
+    },
+    "java": {
+      "label": "Java",
+      "count": 12
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 3
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 9
+    },
+    "python": {
+      "label": "Python",
+      "count": 33
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 32
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 14
+    }
+  },
+  "Nov 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 1
+    },
+    "react": {
+      "label": "React",
+      "count": 31
+    },
+    "java": {
+      "label": "Java",
+      "count": 9
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 1
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 9
+    },
+    "python": {
+      "label": "Python",
+      "count": 28
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 25
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 15
+    }
+  },
+  "Dec 17": {
+    "rust": {
+      "label": "Rust",
+      "count": 2
+    },
+    "react": {
+      "label": "React",
+      "count": 36
+    },
+    "java": {
+      "label": "Java",
+      "count": 18
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 7
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 8
+    },
+    "python": {
+      "label": "Python",
+      "count": 29
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 27
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 13
+    }
+  },
+  "Jan 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 8
+    },
+    "react": {
+      "label": "React",
+      "count": 42
+    },
+    "java": {
+      "label": "Java",
+      "count": 10
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 6
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 9
+    },
+    "python": {
+      "label": "Python",
+      "count": 41
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 40
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 23
+    }
+  },
+  "Feb 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 3
+    },
+    "react": {
+      "label": "React",
+      "count": 35
+    },
+    "java": {
+      "label": "Java",
+      "count": 20
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 2
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 5
+    },
+    "python": {
+      "label": "Python",
+      "count": 29
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 33
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 11
+    }
+  },
+  "Mar 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 6
+    },
+    "react": {
+      "label": "React",
+      "count": 43
+    },
+    "java": {
+      "label": "Java",
+      "count": 10
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 3
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 7
+    },
+    "python": {
+      "label": "Python",
+      "count": 24
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 32
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 16
+    }
+  },
+  "Apr 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 2
+    },
+    "react": {
+      "label": "React",
+      "count": 46
+    },
+    "java": {
+      "label": "Java",
+      "count": 12
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 4
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 8
+    },
+    "python": {
+      "label": "Python",
+      "count": 37
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 33
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 15
+    }
+  },
+  "May 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 5
+    },
+    "react": {
+      "label": "React",
+      "count": 55
+    },
+    "java": {
+      "label": "Java",
+      "count": 19
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 6
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 10
+    },
+    "python": {
+      "label": "Python",
+      "count": 35
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 49
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 32
+    }
+  },
+  "Jun 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 3
+    },
+    "react": {
+      "label": "React",
+      "count": 63
+    },
+    "java": {
+      "label": "Java",
+      "count": 16
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 3
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 8
+    },
+    "python": {
+      "label": "Python",
+      "count": 49
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 36
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 22
+    }
+  },
+  "Jul 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 9
+    },
+    "react": {
+      "label": "React",
+      "count": 53
+    },
+    "java": {
+      "label": "Java",
+      "count": 20
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 7
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 7
+    },
+    "python": {
+      "label": "Python",
+      "count": 51
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 39
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 20
+    }
+  },
+  "Aug 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 6
+    },
+    "react": {
+      "label": "React",
+      "count": 62
+    },
+    "java": {
+      "label": "Java",
+      "count": 11
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 6
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 12
+    },
+    "python": {
+      "label": "Python",
+      "count": 42
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 38
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 22
+    }
+  },
+  "Sep 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 2
+    },
+    "react": {
+      "label": "React",
+      "count": 54
+    },
+    "java": {
+      "label": "Java",
+      "count": 18
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 8
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 10
+    },
+    "python": {
+      "label": "Python",
+      "count": 42
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 39
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 26
+    }
+  },
+  "Oct 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 7
+    },
+    "react": {
+      "label": "React",
+      "count": 39
+    },
+    "java": {
+      "label": "Java",
+      "count": 16
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 7
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 8
+    },
+    "python": {
+      "label": "Python",
+      "count": 34
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 42
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 22
+    }
+  },
+  "Nov 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 5
+    },
+    "react": {
+      "label": "React",
+      "count": 43
+    },
+    "java": {
+      "label": "Java",
+      "count": 12
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 4
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 8
+    },
+    "python": {
+      "label": "Python",
+      "count": 34
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 35
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 19
+    }
+  },
+  "Dec 18": {
+    "rust": {
+      "label": "Rust",
+      "count": 3
+    },
+    "react": {
+      "label": "React",
+      "count": 54
+    },
+    "java": {
+      "label": "Java",
+      "count": 25
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 5
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 5
+    },
+    "python": {
+      "label": "Python",
+      "count": 42
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 39
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 16
+    }
+  },
+  "Jan 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 11
+    },
+    "react": {
+      "label": "React",
+      "count": 49
+    },
+    "java": {
+      "label": "Java",
+      "count": 17
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 7
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 8
+    },
+    "python": {
+      "label": "Python",
+      "count": 50
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 40
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 19
+    }
+  },
+  "Feb 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 8
+    },
+    "react": {
+      "label": "React",
+      "count": 77
+    },
+    "java": {
+      "label": "Java",
+      "count": 21
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 7
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 7
+    },
+    "python": {
+      "label": "Python",
+      "count": 52
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 43
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 27
+    }
+  },
+  "Mar 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 11
+    },
+    "react": {
+      "label": "React",
+      "count": 69
+    },
+    "java": {
+      "label": "Java",
+      "count": 14
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 7
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 8
+    },
+    "python": {
+      "label": "Python",
+      "count": 60
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 46
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 27
+    }
+  },
+  "Apr 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 8
+    },
+    "react": {
+      "label": "React",
+      "count": 74
+    },
+    "java": {
+      "label": "Java",
+      "count": 14
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 8
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 6
+    },
+    "python": {
+      "label": "Python",
+      "count": 49
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 47
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 31
+    }
+  },
+  "May 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 7
+    },
+    "react": {
+      "label": "React",
+      "count": 51
+    },
+    "java": {
+      "label": "Java",
+      "count": 9
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 5
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 7
+    },
+    "python": {
+      "label": "Python",
+      "count": 35
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 30
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 17
+    }
+  },
+  "Jun 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 9
+    },
+    "react": {
+      "label": "React",
+      "count": 69
+    },
+    "java": {
+      "label": "Java",
+      "count": 17
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 8
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 10
+    },
+    "python": {
+      "label": "Python",
+      "count": 56
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 47
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 25
+    }
+  },
+  "Jul 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 9
+    },
+    "react": {
+      "label": "React",
+      "count": 53
+    },
+    "java": {
+      "label": "Java",
+      "count": 20
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 7
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 7
+    },
+    "python": {
+      "label": "Python",
+      "count": 51
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 39
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 20
+    }
+  },
+  "Aug 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 9
+    },
+    "react": {
+      "label": "React",
+      "count": 68
+    },
+    "java": {
+      "label": "Java",
+      "count": 18
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 5
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 8
+    },
+    "python": {
+      "label": "Python",
+      "count": 50
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 56
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 21
+    }
+  },
+  "Sep 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 12
+    },
+    "react": {
+      "label": "React",
+      "count": 77
+    },
+    "java": {
+      "label": "Java",
+      "count": 17
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 5
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 11
+    },
+    "python": {
+      "label": "Python",
+      "count": 48
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 45
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 30
+    }
+  },
+  "Oct 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 9
+    },
+    "react": {
+      "label": "React",
+      "count": 68
+    },
+    "java": {
+      "label": "Java",
+      "count": 14
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 5
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 7
+    },
+    "python": {
+      "label": "Python",
+      "count": 38
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 39
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 17
+    }
+  },
+  "Nov 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 14
+    },
+    "react": {
+      "label": "React",
+      "count": 57
+    },
+    "java": {
+      "label": "Java",
+      "count": 17
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 3
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 6
+    },
+    "python": {
+      "label": "Python",
+      "count": 41
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 34
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 20
+    }
+  },
+  "Dec 19": {
+    "rust": {
+      "label": "Rust",
+      "count": 15
+    },
+    "react": {
+      "label": "React",
+      "count": 68
+    },
+    "java": {
+      "label": "Java",
+      "count": 17
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 2
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 7
+    },
+    "python": {
+      "label": "Python",
+      "count": 48
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 37
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 26
+    }
+  },
+  "Jan 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 6
+    },
+    "react": {
+      "label": "React",
+      "count": 58
+    },
+    "java": {
+      "label": "Java",
+      "count": 15
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 5
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 4
+    },
+    "python": {
+      "label": "Python",
+      "count": 47
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 43
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 30
+    }
+  },
+  "Feb 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 10
+    },
+    "react": {
+      "label": "React",
+      "count": 65
+    },
+    "java": {
+      "label": "Java",
+      "count": 20
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 8
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 9
+    },
+    "python": {
+      "label": "Python",
+      "count": 48
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 43
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 24
+    }
+  },
+  "Mar 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 9
+    },
+    "react": {
+      "label": "React",
+      "count": 62
+    },
+    "java": {
+      "label": "Java",
+      "count": 11
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 8
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 8
+    },
+    "python": {
+      "label": "Python",
+      "count": 43
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 46
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 23
+    }
+  },
+  "Apr 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 7
+    },
+    "react": {
+      "label": "React",
+      "count": 53
+    },
+    "java": {
+      "label": "Java",
+      "count": 16
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 7
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 3
+    },
+    "python": {
+      "label": "Python",
+      "count": 36
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 39
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 21
+    }
+  },
+  "May 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 10
+    },
+    "react": {
+      "label": "React",
+      "count": 41
+    },
+    "java": {
+      "label": "Java",
+      "count": 10
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 6
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 4
+    },
+    "python": {
+      "label": "Python",
+      "count": 27
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 27
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 19
+    }
+  },
+  "Jun 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 10
+    },
+    "react": {
+      "label": "React",
+      "count": 49
+    },
+    "java": {
+      "label": "Java",
+      "count": 14
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 7
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 4
+    },
+    "python": {
+      "label": "Python",
+      "count": 29
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 34
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 20
+    }
+  },
+  "Jul 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 6
+    },
+    "react": {
+      "label": "React",
+      "count": 57
+    },
+    "java": {
+      "label": "Java",
+      "count": 13
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 8
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 2
+    },
+    "python": {
+      "label": "Python",
+      "count": 37
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 31
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 16
+    }
+  },
+  "Aug 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 10
+    },
+    "react": {
+      "label": "React",
+      "count": 39
+    },
+    "java": {
+      "label": "Java",
+      "count": 11
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 6
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 4
+    },
+    "python": {
+      "label": "Python",
+      "count": 41
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 27
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 14
+    }
+  },
+  "Sep 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 8
+    },
+    "react": {
+      "label": "React",
+      "count": 71
+    },
+    "java": {
+      "label": "Java",
+      "count": 22
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 6
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 4
+    },
+    "python": {
+      "label": "Python",
+      "count": 48
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 53
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 19
+    }
+  },
+  "Oct 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 6
+    },
+    "react": {
+      "label": "React",
+      "count": 59
+    },
+    "java": {
+      "label": "Java",
+      "count": 12
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 6
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 4
+    },
+    "python": {
+      "label": "Python",
+      "count": 39
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 29
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 22
+    }
+  },
+  "Nov 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 15
+    },
+    "react": {
+      "label": "React",
+      "count": 60
+    },
+    "java": {
+      "label": "Java",
+      "count": 18
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 6
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 4
+    },
+    "python": {
+      "label": "Python",
+      "count": 38
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 37
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 17
+    }
+  },
+  "Dec 20": {
+    "rust": {
+      "label": "Rust",
+      "count": 10
+    },
+    "react": {
+      "label": "React",
+      "count": 70
+    },
+    "java": {
+      "label": "Java",
+      "count": 22
+    },
+    "vue": {
+      "label": "Vue",
+      "count": 11
+    },
+    "angular": {
+      "label": "Angular",
+      "count": 5
+    },
+    "python": {
+      "label": "Python",
+      "count": 50
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "count": 39
+    },
+    "node": {
+      "label": "NodeJS",
+      "count": 23
+    }
+  }
+}
