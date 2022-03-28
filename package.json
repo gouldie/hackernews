@@ -29,6 +29,11 @@
     "execa": "latest"
   },
   "eslintConfig": {
+    "ignorePatterns": [
+      "node_modules",
+      "dist",
+      "src/data/source"
+    ],
     "root": true,
     "env": {
       "node": true
