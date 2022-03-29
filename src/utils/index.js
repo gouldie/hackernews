@@ -55,11 +55,11 @@ export const techs = {
 }
 
 // only counts top level comments. max 1 count per top level comment
-export const jobStats = (htmlString) => {
+export const jobStats = htmlString => {
   const htmlObject = document.createElement('div')
   htmlObject.innerHTML = htmlString
 
-	var allComments = Array.from(htmlObject.querySelectorAll('.comment-tree .comtr'))
+  var allComments = Array.from(htmlObject.querySelectorAll('.comment-tree .comtr'))
   var topLevelComments = allComments.filter(e => e.querySelector('img[width="0"]'))
 
   const results = {}
@@ -67,9 +67,13 @@ export const jobStats = (htmlString) => {
   Object.keys(techs).forEach(t => {
     results[t] = {
       label: techs[t].label,
-      count: topLevelComments.filter(e => (techs[t].regex.test(e.querySelector('.comment').innerText) ? 'table-row' : 'none') === 'table-row').length
+      count: topLevelComments.filter(
+        e =>
+          (techs[t].regex.test(e.querySelector('.comment').innerText) ? 'table-row' : 'none') ===
+          'table-row'
+      ).length
     }
   })
-  
+
   return results
 }

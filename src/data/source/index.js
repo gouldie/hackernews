@@ -54,6 +54,21 @@ import {
   Nov20,
   Dec20
 } from './2020'
+import {
+  Jan21,
+  Feb21,
+  Mar21,
+  Apr21,
+  May21,
+  Jun21,
+  Jul21,
+  Aug21,
+  Sep21,
+  Oct21,
+  Nov21,
+  Dec21
+} from './2021'
+import { Jan22, Feb22} from './2022'
 
 export default {
   'Jan 17': Jan17,
@@ -103,5 +118,19 @@ export default {
   'Sep 20': Sep20,
   'Oct 20': Oct20,
   'Nov 20': Nov20,
-  'Dec 20': Dec20
+  'Dec 20': Dec20,
+  'Jan 21': Jan21,
+  'Feb 21': Feb21,
+  'Mar 21': Mar21,
+  'Apr 21': Apr21,
+  'May 21': May21,
+  'Jun 21': Jun21,
+  'Jul 21': Jul21,
+  'Aug 21': Aug21,
+  'Sep 21': Sep21,
+  'Oct 21': Oct21,
+  'Nov 21': Nov21,
+  'Dec 21': Dec21,
+  'Jan 22': Jan22,
+  'Feb 22': Feb22
 }

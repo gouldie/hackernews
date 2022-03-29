@@ -18,6 +18,8 @@ import TechGraph from './components/TechGraph.vue'
 import TechFilter from './components/TechFilter.vue'
 import { techs } from './utils'
 
+// require('./data/generate')
+
 export default {
   name: 'App',
   components: {
